@@ -134,3 +134,7 @@ Class_Materials/Data_Visualization/Tableau/Data/movie imdb.xlsx
 Class_Materials/Data_Visualization/Tableau/Data/Sample - Superstore.xls
 Class_Materials/Web_Scraping/config.py
 Class_Materials/Web_Scraping/config.py
+.DS_Store
+Class_Materials/.DS_Store
+Class_Materials/Numpy/.DS_Store
+Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts/.DS_Store
